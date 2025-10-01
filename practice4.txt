@@ -1,3 +1,5 @@
 Đoàn Vĩnh Hưng - 223277 
 DH22TIN06
 Đại học Nam Cần Thơ
+
+Dòng 1 (có sự thay đổi ở dòng này mới dùng được git add -p practice4.txt)
